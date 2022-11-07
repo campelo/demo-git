@@ -1,2 +1,3 @@
 Arquivo de exemplo 001
 Linha 002
+linha 3
